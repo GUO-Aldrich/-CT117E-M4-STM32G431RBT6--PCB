@@ -5,7 +5,7 @@
 - 安装孔的直径是3mm(M3螺丝)
 
 
-# 模块原理图
+## 模块原理图
 
 - [蓝桥杯嵌入式开发板CT117E-M4(基于STM32G431RBT6)原理图.pdf](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E6%9D%BFCT117E-M4(%E5%9F%BA%E4%BA%8ESTM32G431RBT6)-%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
@@ -14,6 +14,9 @@
 - [蓝桥杯嵌入式开发板CT117E-M4(基于STM32G431RBT6)参考原理图(1).pdf](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/SCH_CT117E_M4_V1.1.pdf)
 - [蓝桥杯嵌入式开发板CT117E-M4(基于STM32G431RBT6)参考原理图(2).pdf](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/SCH_CT117E_M4_V1.2.pdf)
 
+## 器件使用手册
+
+-[CT117E-M4使用手册](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/UM_CT117E_M4.pdf)
 
 ## 模块的PCB尺寸大小
 
