@@ -1,6 +1,5 @@
 # 蓝桥杯嵌入式开发板CT117E-M4（基于STM32G431RBT6）
 
-- 上传人：GUO
 - [工程文件用【立创专业版打开】](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E6%9D%BFCT117E-M4(%E5%9F%BA%E4%BA%8ESTM32G431RBT6).epro)
 - 安装孔的直径是3mm(M3螺丝)
 
