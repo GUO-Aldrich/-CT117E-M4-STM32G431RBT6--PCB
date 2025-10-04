@@ -16,7 +16,7 @@
 
 ## 器件使用手册
 
--[CT117E-M4使用手册](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/UM_CT117E_M4.pdf)
+- [CT117E-M4使用手册](https://github.com/GUO-Aldrich/LanQiaoBei_CT117E_M4/blob/main/UM_CT117E_M4.pdf)
 
 ## 模块的PCB尺寸大小
 
